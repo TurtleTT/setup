@@ -1,0 +1,10 @@
+[user]
+  signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILDeBUAWz6NoB2ZDzu0/vmdhyEREXycUPAplkwmGXvhF
+	email = tobiaslanghart@gmail.com
+	name = TurtleTT
+
+[gpg]
+  format = ssh
+
+[commit]
+  gpgsign = true
